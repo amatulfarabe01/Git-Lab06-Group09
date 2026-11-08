@@ -1,0 +1,23 @@
+1. git --version
+   Displays the installed Git version.
+
+2. git init
+   Initializes a local Git repository.
+
+3. git config
+   Configures Git username and email.
+
+4. git status
+   Displays the current repository status.
+
+5. git add
+   Adds files to the staging area.
+
+6. git commit
+   Saves changes in the Git repository.
+
+7. git log
+   Displays commit history.
+
+8. git push
+   Uploads local commits to a remote repository.
