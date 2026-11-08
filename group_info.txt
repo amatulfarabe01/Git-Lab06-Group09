@@ -1,0 +1,7 @@
+Group Number: 09
+Member 1: Amatul Ala Farabe - 2023-3-60-297
+Member 2: Safak Al Mubin - 2023-3-60-467
+Member 3: MD. Muntasir Ahmed Rifat- 2022-1-60-333
+Course Code: CSE 412
+Lab Work: 06
+Topic: Git Repository
