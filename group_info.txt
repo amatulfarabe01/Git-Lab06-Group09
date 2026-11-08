@@ -5,3 +5,6 @@ Member 3: MD. Muntasir Ahmed Rifat- 2022-1-60-333
 Course Code: CSE 412
 Lab Work: 06
 Topic: Git Repository
+Department: Computer Science and Engineering
+University: East West University
+Git Learning Status: In Progress
